@@ -52,11 +52,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M1zuki018&theme=nord&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line" />
-  <br>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
