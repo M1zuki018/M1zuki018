@@ -29,21 +29,10 @@
 - **Creative:** Game Design, Narrative Design, Worldbuilding
 - **Project:** Team Leadership, Game Direction, Planning
 
-## 🚀 Current Projects
-
-### 🎮 Game Development
-- **[EOH_AstralEclipse](https://github.com/M1zuki018/EOH_AstralEclipse)** - A narrative-driven action game set in the EOH universe
-
-### 📚 Literary Works
-- **END OF HOPE:21xx - Last Call** - SF Fantasy novel series featuring human drama in a post-apocalyptic setting
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M1zuki018&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1zuki018&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1zuki018&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
